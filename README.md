@@ -1,6 +1,11 @@
-# theo
+# TMS
+Development Of A Transport Management Mobile App (EasyGo) For Booking Bus & Airline Tickets in Ghana using Flutter.
 
-A new Flutter project.
+# Project Members
+Boapeah Stephon Kwame - stephonOG
+Asante Theophilus Kofi - Asante-1
+Abdul Nasir Jamal - 
+
 
 ## Getting Started
 
